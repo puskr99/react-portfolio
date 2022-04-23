@@ -10,3 +10,6 @@ Steps to run the project -->
 3.Do npm start to start the project in your localhost.
 
 
+Note:: Form at the bottom doesn't work as of now.
+
+
